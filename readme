@@ -8,4 +8,8 @@ DB_NAME=dbms_ecommerce
 JWT_SECRET
 JWT_EXPIRES
 NODE_ENV
-INTERNAL_API_KEY
+INTERNAL_API_KEY (only useful if you want to create admin)
+
+For test admin-
+email: admin@tees.com
+password: testAdmin
