@@ -1,0 +1,11 @@
+These are the environment variables required
+
+PORT
+DB_HOST
+DB_USER
+DB_PASSWORD
+DB_NAME=dbms_ecommerce
+JWT_SECRET
+JWT_EXPIRES
+NODE_ENV
+INTERNAL_API_KEY
