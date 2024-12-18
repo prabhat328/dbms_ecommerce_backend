@@ -1,5 +1,14 @@
-These are the environment variables required
+Prerequisite to setup the project:
+run command: 'npm i' to install all the dependencies
+Run 'db_schema.sql' on your machine to setup the database
+Set environment variables according to your machine
 
+To run the project in development environment-
+'npm run dev'
+For production environment-
+'npm run start'
+
+These are the environment variables required-
 PORT
 DB_HOST
 DB_USER
@@ -9,7 +18,3 @@ JWT_SECRET
 JWT_EXPIRES
 NODE_ENV
 INTERNAL_API_KEY (only useful if you want to create admin)
-
-For test admin-
-email: admin@tees.com
-password: testAdmin
